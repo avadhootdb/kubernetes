@@ -13,3 +13,7 @@ Cost -- Estimate the cost
 Take 5 services from the less imp, medium, and critical categories each and create one Kubernetes cluster.
 Create a deployment ( stateful set, daemon set ), create Kubernetes services, and create an ingress and an ingress controller.
 Do testing. 
+
+3) Level 2 -- Set up dev cluster.
+
+4) Level 3 -- Set up staging environment.
