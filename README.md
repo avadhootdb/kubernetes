@@ -22,7 +22,7 @@ End Goal - Dev Environment is Ready
 5) Level 3 -- Set up staging environment.
 End Goal - Verify the Readiness
 
-5) Level 4 - Onboarding Prod
+6) Level 4 - Onboarding Prod
 End Goal - Verify the Readiness
 
 6)Level 5 - Scaling Production
