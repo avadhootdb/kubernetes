@@ -25,5 +25,5 @@ End Goal - Verify the Readiness
 5) Level 4 - Onboarding Prod
 End Goal - Verify the Readiness
 
-6)Level 5 - Scaling Production
+6) Level 5 - Scaling Production
 End Goal - HA Multi Zone, Multi Region
